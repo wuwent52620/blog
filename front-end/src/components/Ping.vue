@@ -13,7 +13,6 @@
       <img class="media-object g-rounded-50x u-image-icon-size-md"
            src="http://www.madmalls.com/static/main/images/avatar.jpg" alt="Image Description">
     </span>
-    <vue-html5-editor :content="content" :height="500"></vue-html5-editor>
   </div>
 
 </template>
